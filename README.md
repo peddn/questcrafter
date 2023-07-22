@@ -13,3 +13,5 @@ QuestCrafter provides a range of features designed to assist in the creation and
 - Efficient organizational tools for managing story elements
 - Backend powered by Strapi
 - Frontend developed with Vue.js
+
+js text editor library for distraction-free writing
